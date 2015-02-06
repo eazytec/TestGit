@@ -8,7 +8,7 @@ namespace DTcms.DBUtility
     public enum EffentNextType
     {
         /// <summary>
-        /// 对其他语句无任何影响 
+        /// 对其他语句无任何影响1 
         /// </summary>
         None,
         /// <summary>
