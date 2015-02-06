@@ -1174,7 +1174,9 @@
     <Folder Include="upload\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="xmlconfig\alipay.config" />
+    <Content Include="xmlconfig\alipay.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="xmlconfig\tenpay.config" />
     <None Include="scripts\ui\skins\Aqua\images\dialog\ie6\Thumbs.db" />
     <None Include="scripts\ui\skins\Aqua\images\dialog\Thumbs.db" />
